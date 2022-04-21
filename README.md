@@ -7,9 +7,13 @@
 
 **I'm a self-taught front-end dev based in Portugal 🇵🇹 and I like to code stuff and post it on the internet! 😶‍🌫️**
 
+- 🔭 I’m currently working on getting better at front-end
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with getting better at code
+
+---
+
+
 
 <!--
 **n0ia96/n0ia96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
