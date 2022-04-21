@@ -22,6 +22,7 @@
 #### 🌱 In progress:
 ![Javascript](https://img.shields.io/badge/-JavaScript-2d2d2d?style=flat-square&logo=javascript&logoColor=white&labelColor=F7DF1E)
 ![Python](https://img.shields.io/badge/-Python-2d2d2d?style=flat-square&logo=python&logoColor=white&labelColor=3776AB)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-2d2d2d?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=06B6D4)
 
 
 <!--
