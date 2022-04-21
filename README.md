@@ -8,10 +8,10 @@
 #
 **Some info about me:**
 - 🗓️ I'm 25 years old
-- 🖌️ I usualy make stuff for streamers
-- 📀 I’m currently working on getting better at code
+- 🖌️ I usualy make UI's for streamers / content creators
+- 📀 I'm consistently improving front-end coding
 - 🫱🏽‍🫲🏽 I’m looking to collaborate on open-source projects
-- 😶‍🌫️ I like to code stuff and post it on the internet!
+- 😶‍🌫️ I like to code stuff and post it on the internet
 
 #
 
