@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-n0ia96-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/n0ia96/)
 [![Discord](https://img.shields.io/badge/-n0ia96⋕9002-5865F2?style=flat&logo=discord&logoColor=white)](#)
 
-##### **I'm a self-taught front-end dev based in Portugal 🇵🇹 and I like to code stuff and post it on the internet! 😶‍🌫️**
+**I'm a self-taught front-end dev based in Portugal 🇵🇹 and I like to code stuff and post it on the internet! 😶‍🌫️**
 
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on open-source projects
