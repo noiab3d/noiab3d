@@ -9,7 +9,7 @@
 **Some info about me:**
 - 🗓️ I'm 25 years old
 - 🖌️ I usualy make UI's for streamers / content creators
-- 📀 I'm consistently improving front-end coding
+- 📀 I'm consistently improving front-end and coding skills
 - 🫱🏽‍🫲🏽 I’m looking to collaborate on open-source projects
 - 😶‍🌫️ I like to code stuff and post it on the internet
 
