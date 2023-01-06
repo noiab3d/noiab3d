@@ -23,7 +23,7 @@
 ![Wordpress](https://img.shields.io/badge/-WordPress-2d2d2d?style=flat-square&logo=wordpress&logoColor=white&labelColor=21759B)
 ![Javascript](https://img.shields.io/badge/-JavaScript-2d2d2d?style=flat-square&logo=javascript&logoColor=white&labelColor=F7DF1E)
 ![Python](https://img.shields.io/badge/-Python-2d2d2d?style=flat-square&logo=python&logoColor=white&labelColor=3776AB)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-2d2d2d?style=flat-square&logo=Kali_Linux&logoColor=white&labelColor=557C94)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-2d2d2d?style=flat-square&logo=kalilinux&logoColor=white&labelColor=557C94)
 
 
 <!--
