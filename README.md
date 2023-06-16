@@ -3,7 +3,7 @@
 [![Behance](https://img.shields.io/badge/-n0ia96-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/n0ia96)
 [![LinkedIn](https://img.shields.io/badge/-n0ia96-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/n0ia96/)
 
-#### I'm a UX & Motion Designer based in Portugal 🇵🇹.
+#### I'm a Graphic & Motion Designer based in Portugal 🇵🇹.
 ##### (I also love cybersecurity and hacking tools | 🎩⬜ WHHacker)
 #
 **Some info about me:**
