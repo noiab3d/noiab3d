@@ -26,7 +26,7 @@
 
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-2d2d2d?style=flat-square&logo=kalilinux&logoColor=white&labelColor=557C94)
 ![Linux AthenaOS](https://img.shields.io/badge/-Athena_OS-2d2d2d?style=flat-square&logo=linux&logoColor=white&labelColor=EF2D5E)
-![Hack the Box](https://img.shields.io/badge/lvl4-Hack_The_Box-2d2d2d?style=flat-square&logo=hackthebox&logoColor=white&labelColor=9FEF00)
+![Hack the Box](https://img.shields.io/badge/-Hack_The_Box-2d2d2d?style=flat-square&logo=hackthebox&logoColor=white&labelColor=9FEF00)
 
 
 #### 🌱 In progress:
