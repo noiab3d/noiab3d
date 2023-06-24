@@ -18,16 +18,15 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-2d2d2d?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-2d2d2d?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6)
 ![Javascript](https://img.shields.io/badge/-JavaScript-2d2d2d?style=flat-square&logo=javascript&logoColor=white&labelColor=F7DF1E)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-2d2d2d?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=06B6D4) 
 
 ![PHP](https://img.shields.io/badge/-PHP-2d2d2d?style=flat-square&logo=php&logoColor=white&labelColor=777BB4)
 ![Apache](https://img.shields.io/badge/-Apache-2d2d2d?style=flat-square&logo=php&logoColor=white&labelColor=D22128)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-2d2d2d?style=flat-square&logo=php&logoColor=white&labelColor=003545)
 
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-2d2d2d?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=06B6D4) 
-
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-2d2d2d?style=flat-square&logo=kalilinux&logoColor=white&labelColor=557C94)
 ![Linux AthenaOS](https://img.shields.io/badge/-Athena_OS-2d2d2d?style=flat-square&logo=linux&logoColor=white&labelColor=EF2D5E)
-![Hack the Box](https://img.shields.io/badge/lvl4-Hack_The_Box-2d2d2d?style=flat-square&logo=linux&logoColor=white&labelColor=EF2D5E)
+![Hack the Box](https://img.shields.io/badge/lvl4-Hack_The_Box-2d2d2d?style=flat-square&logo=hackthebox&logoColor=white&labelColor=9FEF00)
 
 
 #### 🌱 In progress:
