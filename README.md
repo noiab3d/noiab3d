@@ -7,7 +7,7 @@
 ##### (I also love cybersecurity and hacking tools | 🎩⬜ WHHacker)
 #
 **Some info about me:**
-- 🗓️ I'm 26 years old
+- 🗓️ I'm 28 years old
 - 🖌️ I usually do UI's and Rebrands for streamers / content creators
 - 📀 I'm consistently improving my front-end, coding and design skills
 - 🫱🏽‍🫲🏽 I’m looking to collaborate on open-source projects
