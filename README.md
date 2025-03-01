@@ -1,37 +1,56 @@
-# Hi, my name is David Serrano 👋🏽
-[![](https://img.shields.io/badge/-n0ia96-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/n0ia96)
-[![](https://img.shields.io/badge/-n0ia96-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/n0ia96)
-[![](https://img.shields.io/badge/-n0ia96-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/n0ia96/)
+# Hi, I'm David Serrano 👋🏽
 
-#### I'm a Graphic & Motion Designer based in Portugal 🇵🇹.
-##### (I also love cybersecurity and hacking tools | 🎩⬜ WHHacker)
+I'm a Creative Designer based in Portugal 🇵🇹. I specialize in 3D design, Motion Graphics, and UI/UX design, bringing engaging and memorable digital experiences to life.
+###### I also have a keen interest in cybersecurity and hacking tools 🕵️‍♂️💻.
 #
-**Some info about me:**
-- 🗓️ I'm 28 years old
-- 🖌️ I usually do UI's and Rebrands for streamers / content creators
-- 📀 I'm consistently improving my front-end, coding and design skills
-- 🫱🏽‍🫲🏽 I’m looking to collaborate on open-source projects
+**About me:**
+- 🗓️ 28 years old
+- 🖌️ Specializing in branding and rebranding for content creators and businesses
+- 📈 Continuously improving my front-end, coding, and design skills
+- 🫱🏽‍🫲🏽 Looking to collaborate on open-source (or not) projects and creative opportunities
 
-#
+‎   
+## 🚀 Skills
+#### 📌 Tech & Design
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/-Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 
-#### 💡 Skills:
-![HTML5](https://img.shields.io/badge/-HTML5-2d2d2d?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-2d2d2d?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
-![Javascript](https://img.shields.io/badge/-JavaScript-2d2d2d?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-2d2d2d?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4) 
-
-![PHP](https://img.shields.io/badge/-PHP-2d2d2d?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4)
-![Apache](https://img.shields.io/badge/-Apache-2d2d2d?style=for-the-badge&logo=apache&logoColor=white&labelColor=D22128)
-![MariaDB](https://img.shields.io/badge/-MariaDB-2d2d2d?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=003545)
-
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-2d2d2d?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=557C94)
-![Linux AthenaOS](https://img.shields.io/badge/-Athena_OS-2d2d2d?style=for-the-badge&logo=linux&logoColor=white&labelColor=EF2D5E)
-![Hack the Box](https://img.shields.io/badge/-Hack_The_Box-2d2d2d?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=9FEF00)
+#### 🛠 Tools & Software
+![Figma](https://img.shields.io/badge/-Figma-a358ff?style=flat-square&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAyNDAgMjM0IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAyNDAgMjM0IiB4bWw6c3BhY2U9InByZXNlcnZlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8dGl0bGU+QWRvYmUgQWZ0ZXIgRWZmZWN0cyBDQyBsb2dvPC90aXRsZT4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojMDAwMDVCO30KCS5zdDF7ZmlsbDojOTk5OUZGO30KPC9zdHlsZT4KPGcgaWQ9InZscGEiPgoJPGcgaWQ9InZscGIiPgoJCTxnIGlkPSJ2bHBjIj4KCQkJPGcgaWQ9InZscGQiPgoJCQkJPHBhdGggY2xhc3M9InN0MCIgZD0iTTQyLjUsMGgxNTVDMjIxLDAsMjQwLDE5LDI0MCw0Mi41djE0OWMwLDIzLjUtMTksNDIuNS00Mi41LDQyLjVoLTE1NUMxOSwyMzQsMCwyMTUsMCwxOTEuNXYtMTQ5ICAgICAgQzAsMTksMTksMCw0Mi41LDB6Ii8+CgkJCTwvZz4KCQk8L2c+Cgk8L2c+Cgk8ZyBpZD0idmxwZSI+CgkJPGcgaWQ9InZscGYiPgoJCQk8cGF0aCBjbGFzcz0ic3QxIiBkPSJtOTYuNCAxNDBoLTM3LjJsLTcuNiAyMy42Yy0wLjIgMC45LTEgMS41LTEuOSAxLjRoLTE4LjhjLTEuMSAwLTEuNC0wLjYtMS4xLTEuOGwzMi4yLTkyLjNjMC4zLTEgMC42LTEuOSAxLTMuMSAwLjQtMi4xIDAuNi00LjMgMC42LTYuNS0wLjEtMC41IDAuMy0xIDAuOC0xLjFoMC4zIDI1LjZjMC43IDAgMS4yIDAuMyAxLjMgMC44bDM2LjUgMTAyYzAuMyAxLjEgMCAxLjYtMSAxLjZoLTIwLjljLTAuNyAwLjEtMS40LTAuNC0xLjYtMS4xbC04LjItMjR6bS0zMS40LTE5LjloMjUuNGMtMC42LTIuMS0xLjQtNC42LTIuMy03LjItMC45LTIuNy0xLjgtNS42LTIuNy04LjYtMS0zLjEtMS45LTYuMS0yLjktOS4ycy0xLjktNi0yLjctOC45Yy0wLjgtMi44LTEuNS01LjQtMi4yLTcuOGgtMC4yYy0wLjkgNC4zLTIgOC42LTMuNCAxMi45LTEuNSA0LjgtMyA5LjgtNC42IDE0LjgtMS4zIDUuMS0yLjkgOS44LTQuNCAxNHoiLz4KCQkJPHBhdGggY2xhc3M9InN0MSIgZD0ibTE4NyAxMzFoLTMxLjdjMC40IDMuMSAxLjQgNi4yIDMuMSA4LjkgMS44IDIuNyA0LjMgNC44IDcuMyA2IDQgMS43IDguNCAyLjYgMTIuOCAyLjUgMy41LTAuMSA3LTAuNCAxMC40LTEuMSAzLjEtMC40IDYuMS0xLjIgOC45LTIuMyAwLjUtMC40IDAuOC0wLjIgMC44IDAuOHYxNS4zYzAgMC40LTAuMSAwLjgtMC4yIDEuMi0wLjIgMC4zLTAuNCAwLjUtMC43IDAuNy0zLjIgMS40LTYuNSAyLjQtMTAgMy00LjcgMC45LTkuNCAxLjMtMTQuMiAxLjItNy42IDAtMTQtMS4yLTE5LjItMy41LTQuOS0yLjEtOS4yLTUuNC0xMi42LTkuNS0zLjItMy45LTUuNS04LjMtNi45LTEzLjEtMS40LTQuNy0yLjEtOS42LTIuMS0xNC42IDAtNS40IDAuOC0xMC43IDIuNS0xNS45IDEuNi01IDQuMS05LjYgNy41LTEzLjcgMy4zLTQgNy40LTcuMiAxMi4xLTkuNXMxMC4zLTMuMSAxNi43LTMuMWM1LjMtMC4xIDEwLjYgMC45IDE1LjUgMy4xIDQuMSAxLjggNy43IDQuNSAxMC41IDggMi42IDMuNCA0LjcgNy4yIDYgMTEuNCAxLjMgNCAxLjkgOC4xIDEuOSAxMi4yIDAgMi40LTAuMSA0LjUtMC4yIDYuNC0wLjIgMS45LTAuMyAzLjMtMC40IDQuMi0wLjEgMC43LTAuNyAxLjMtMS40IDEuMy0wLjYgMC0xLjcgMC4xLTMuMyAwLjItMS42IDAuMi0zLjUgMC4zLTUuOCAwLjNzLTQuNy0wLjQtNy4zLTAuNHptLTMxLjctMTQuNmgyMS4xYzIuNiAwIDQuNSAwIDUuNy0wLjEgMC44LTAuMSAxLjYtMC4zIDIuMy0wLjh2LTFjMC0xLjMtMC4yLTIuNS0wLjYtMy43LTEuOC01LjYtNy4xLTkuNC0xMy05LjItNS41LTAuMy0xMC43IDIuNi0xMy4zIDcuNi0xLjIgMi4zLTEuOSA0LjctMi4yIDcuMnoiLz4KCQk8L2c+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI0LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAyNDAgMjM0IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAyNDAgMjM0OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzAwMUUzNjt9Cgkuc3Qxe2ZpbGw6IzMxQThGRjt9Cjwvc3R5bGU+CjxnIGlkPSJMYXllcl8yXzFfIj4KCTxnIGlkPSJTdXJmYWNlcyI+CgkJPGcgaWQ9IlBob3RvX1N1cmZhY2UiPgoJCQk8ZyBpZD0iT3V0bGluZV9ub19zaGFkb3ciPgoJCQkJPHBhdGggY2xhc3M9InN0MCIgZD0iTTQyLjUsMGgxNTVDMjIxLDAsMjQwLDE5LDI0MCw0Mi41djE0OWMwLDIzLjUtMTksNDIuNS00Mi41LDQyLjVoLTE1NUMxOSwyMzQsMCwyMTUsMCwxOTEuNXYtMTQ5CgkJCQkJQzAsMTksMTksMCw0Mi41LDB6Ii8+CgkJCTwvZz4KCQk8L2c+Cgk8L2c+Cgk8ZyBpZD0iT3V0bGluZWRfTW5lbW9uaWNzX0xvZ29zIj4KCQk8ZyBpZD0iUHMiPgoJCQk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNNTQsMTY0LjFWNjEuMmMwLTAuNywwLjMtMS4xLDEtMS4xYzEuNywwLDMuMywwLDUuNi0wLjFjMi40LTAuMSw0LjktMC4xLDcuNi0wLjJjMi43LTAuMSw1LjYtMC4xLDguNy0wLjIKCQkJCWMzLjEtMC4xLDYuMS0wLjEsOS4xLTAuMWM4LjIsMCwxNSwxLDIwLjYsMy4xYzUsMS43LDkuNiw0LjUsMTMuNCw4LjJjMy4yLDMuMiw1LjcsNy4xLDcuMywxMS40YzEuNSw0LjIsMi4zLDguNSwyLjMsMTMKCQkJCWMwLDguNi0yLDE1LjctNiwyMS4zYy00LDUuNi05LjYsOS44LTE2LjEsMTIuMmMtNi44LDIuNS0xNC4zLDMuNC0yMi41LDMuNGMtMi40LDAtNCwwLTUtMC4xYy0xLTAuMS0yLjQtMC4xLTQuMy0wLjF2MzIuMQoJCQkJYzAuMSwwLjctMC40LDEuMy0xLjEsMS40Yy0wLjEsMC0wLjIsMC0wLjQsMEg1NS4yQzU0LjQsMTY1LjQsNTQsMTY1LDU0LDE2NC4xeiBNNzUuOCw3OS40VjExM2MxLjQsMC4xLDIuNywwLjIsMy45LDAuMkg4NQoJCQkJYzMuOSwwLDcuOC0wLjYsMTEuNS0xLjhjMy4yLTAuOSw2LTIuOCw4LjItNS4zYzIuMS0yLjUsMy4xLTUuOSwzLjEtMTAuM2MwLjEtMy4xLTAuNy02LjItMi4zLTguOWMtMS43LTIuNi00LjEtNC42LTctNS43CgkJCQljLTMuNy0xLjUtNy43LTIuMS0xMS44LTJjLTIuNiwwLTQuOSwwLTYuOCwwLjFDNzcuOSw3OS4yLDc2LjUsNzkuMyw3NS44LDc5LjRMNzUuOCw3OS40eiIvPgoJCQk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMTkyLDEwNi45Yy0zLTEuNi02LjItMi43LTkuNi0zLjRjLTMuNy0wLjgtNy40LTEuMy0xMS4yLTEuM2MtMi0wLjEtNC4xLDAuMi02LDAuN2MtMS4zLDAuMy0yLjQsMS0zLjEsMgoJCQkJYy0wLjUsMC44LTAuOCwxLjgtMC44LDIuN2MwLDAuOSwwLjQsMS44LDEsMi42YzAuOSwxLjEsMi4xLDIsMy40LDIuN2MyLjMsMS4yLDQuNywyLjMsNy4xLDMuM2M1LjQsMS44LDEwLjYsNC4zLDE1LjQsNy4zCgkJCQljMy4zLDIuMSw2LDQuOSw3LjksOC4zYzEuNiwzLjIsMi40LDYuNywyLjMsMTAuM2MwLjEsNC43LTEuMyw5LjQtMy45LDEzLjNjLTIuOCw0LTYuNyw3LjEtMTEuMiw4LjljLTQuOSwyLjEtMTAuOSwzLjItMTguMSwzLjIKCQkJCWMtNC42LDAtOS4xLTAuNC0xMy42LTEuM2MtMy41LTAuNi03LTEuNy0xMC4yLTMuMmMtMC43LTAuNC0xLjItMS4xLTEuMS0xLjl2LTE3LjRjMC0wLjMsMC4xLTAuNywwLjQtMC45CgkJCQljMC4zLTAuMiwwLjYtMC4xLDAuOSwwLjFjMy45LDIuMyw4LDMuOSwxMi40LDQuOWMzLjgsMSw3LjgsMS41LDExLjgsMS41YzMuOCwwLDYuNS0wLjUsOC4zLTEuNGMxLjYtMC43LDIuNy0yLjQsMi43LTQuMgoJCQkJYzAtMS40LTAuOC0yLjctMi40LTRjLTEuNi0xLjMtNC45LTIuOC05LjgtNC43Yy01LjEtMS44LTkuOC00LjItMTQuMi03LjJjLTMuMS0yLjItNS43LTUuMS03LjYtOC41Yy0xLjYtMy4yLTIuNC02LjctMi4zLTEwLjIKCQkJCWMwLTQuMywxLjItOC40LDMuNC0xMi4xYzIuNS00LDYuMi03LjIsMTAuNS05LjJjNC43LTIuNCwxMC42LTMuNSwxNy43LTMuNWM0LjEsMCw4LjMsMC4zLDEyLjQsMC45YzMsMC40LDUuOSwxLjIsOC42LDIuMwoJCQkJYzAuNCwwLjEsMC44LDAuNSwxLDAuOWMwLjEsMC40LDAuMiwwLjgsMC4yLDEuMnYxNi4zYzAsMC40LTAuMiwwLjgtMC41LDFDMTkyLjksMTA3LjEsMTkyLjQsMTA3LjEsMTkyLDEwNi45eiIvPgoJCTwvZz4KCTwvZz4KPC9nPgo8L3N2Zz4K)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiIHZpZXdCb3g9IjAgMCAyNDAgMjM0Ij4KICA8cGF0aCBmaWxsPSIjMzAwIiBkPSJNNDIuNSAwaDE1NUMyMjEgMCAyNDAgMTkgMjQwIDQyLjV2MTQ5YzAgMjMuNS0xOSA0Mi41LTQyLjUgNDIuNWgtMTU1QzE5IDIzNCAwIDIxNSAwIDE5MS41di0xNDlDMCAxOSAxOSAwIDQyLjUgMHoiLz4KICA8cGF0aCBmaWxsPSIjZmY5YTAwIiBkPSJNMTE2IDE0MEg3OC44bC03LjYgMjMuNWMtLjIuOS0xIDEuNS0xLjkgMS40SDUwLjVjLTEuMSAwLTEuNC0uNi0xLjEtMS44bDMyLjItOTIuN2MuMy0xIC42LTIuMSAxLTMuMy40LTIuMS42LTQuMy42LTYuNS0uMS0uNS4zLTEgLjgtMS4xaDI1LjljLjggMCAxLjIuMyAxLjMuOGwzNi41IDEwM2MuMyAxLjEgMCAxLjYtMSAxLjZoLTIwLjljLS43LjEtMS40LS40LTEuNi0xLjFMMTE2IDE0MHptLTMxLjQtMjAuM0gxMTBjLS42LTIuMS0xLjQtNC42LTIuMy03LjItLjktMi43LTEuOC01LjYtMi43LTguNi0xLTMuMS0xLjktNi4xLTIuOS05LjJzLTEuOS02LTIuNy04LjljLS44LTIuOC0xLjUtNS40LTIuMi03LjhIOTdjLS45IDQuMy0yIDguNi0zLjQgMTIuOS0xLjUgNC44LTMgOS44LTQuNiAxNC44LTEuNCA1LjEtMi45IDkuOC00LjQgMTR6TTE3MCA3N2MtMy4zLjEtNi41LTEuMi04LjktMy41LTIuMy0yLjUtMy41LTUuOC0zLjQtOS4yLS4xLTMuNCAxLjItNi42IDMuNi04LjlzNS42LTMuNSA4LjktMy41YzMuOSAwIDYuOSAxLjIgOS4xIDMuNSAyLjIgMi40IDMuNCA1LjYgMy4zIDguOS4xIDMuNC0xLjEgNi43LTMuNSA5LjItMi4zIDIuNC01LjcgMy43LTkuMSAzLjV6bS0xMS4yIDg2Ljh2LTc3YzAtMSAuNC0xLjQgMS4zLTEuNGgxOS44Yy45IDAgMS4zLjUgMS4zIDEuNHY3N2MwIDEuMS0uNCAxLjYtMS4zIDEuNmgtMTkuNmMtMSAwLTEuNS0uNi0xLjUtMS42eiIvPgo8L3N2Zz4=)
 
 
-#### 🌱 In progress:
-![Wordpress](https://img.shields.io/badge/-WordPress-2d2d2d?style=flat-square&logo=wordpress&logoColor=white&labelColor=21759B)
-![Python](https://img.shields.io/badge/-Python-2d2d2d?style=flat-square&logo=python&logoColor=white&labelColor=3776AB)
+#### 🌱 Currently Learning
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+‎   
+## 🎨 ‎Featured Projects
+🪙 [SpectrumSOL](https://spectrumsol.xyz/) – Spectrum is (not) a meme coin, on the Solana chain.
+###### (More coming soon!)
+
+‎   
+
+‎   
+##### 📬 Where to Find Me
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/noia.b3d)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logoColor=white&logo=data:image/svg+xml)](https://twitter.com/noiab3d)
+[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/noiab3d)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidsrno)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:noiab3d@proton.me)
+
+
+
 
 
 <!--
