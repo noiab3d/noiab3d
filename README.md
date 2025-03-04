@@ -1,6 +1,6 @@
 # Hi, I'm David Serrano 👋🏽
 
-I'm a Creative Designer based in Portugal 🇵🇹. I specialize in 3D design, Motion Graphics, and UI/UX design, bringing engaging and memorable digital experiences to life.
+I'm a Creative Designer based in Portugal 🇵🇹. I specialize in 3D design, Motion Graphics, UI/UX design, and in bringing engaging and memorable digital experiences to life.
 ###### I also have a keen interest in cybersecurity and hacking tools 🕵️‍♂️💻.
 #
 **About me:**
